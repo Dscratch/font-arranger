@@ -1,0 +1,8 @@
+C:\Users\ayb10\Documents\Visual Studio 2008\Projects\FontArranger\FontArranger\bin\Debug\FontArranger.exe
+C:\Users\ayb10\Documents\Visual Studio 2008\Projects\FontArranger\FontArranger\bin\Debug\FontArranger.pdb
+C:\Users\ayb10\Documents\Visual Studio 2008\Projects\FontArranger\FontArranger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ayb10\Documents\Visual Studio 2008\Projects\FontArranger\FontArranger\obj\Debug\FontArranger.Form1.resources
+C:\Users\ayb10\Documents\Visual Studio 2008\Projects\FontArranger\FontArranger\obj\Debug\FontArranger.Properties.Resources.resources
+C:\Users\ayb10\Documents\Visual Studio 2008\Projects\FontArranger\FontArranger\obj\Debug\FontArranger.csproj.GenerateResource.Cache
+C:\Users\ayb10\Documents\Visual Studio 2008\Projects\FontArranger\FontArranger\obj\Debug\FontArranger.exe
+C:\Users\ayb10\Documents\Visual Studio 2008\Projects\FontArranger\FontArranger\obj\Debug\FontArranger.pdb
